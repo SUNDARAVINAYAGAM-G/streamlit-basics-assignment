@@ -22,3 +22,10 @@ http://localhost:8501/
 Now open the below dashboard here.
 
 <img width="1915" height="983" alt="image" src="https://github.com/user-attachments/assets/4c19e7a7-c72f-431f-a11b-f076ca8370e7" />
+
+
+![streamlit accessories](https://github.com/user-attachments/assets/33b68519-2591-453f-91e5-402f7bb56e4b)
+
+![Streamlit office](https://github.com/user-attachments/assets/d613cae9-3514-4b1c-83e1-18c5fefc4e11)
+
+
